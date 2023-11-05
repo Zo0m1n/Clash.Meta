@@ -18,6 +18,8 @@
   </a>
 </p>
 
+**This repo belongs to [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta).**
+
 ## Features
 
 - Local HTTP/HTTPS/SOCKS server with authentication support
